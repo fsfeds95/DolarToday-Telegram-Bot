@@ -12,7 +12,7 @@ def handle(msg):
 
 # Create a bot object with API key
 # You must request a bot key from @BotFather 
-bot = telepot.Bot('API key goes here')
+bot = telepot.Bot('6420363333:AAG2hIHjSqtvocsZgTEB4WKtevK4rRhWLBk')
 
 # Attach a function to notifyOnMessage call back
 bot.message_loop(handle)
